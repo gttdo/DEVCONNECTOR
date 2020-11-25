@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://gvinces:032089305sis.l@devconnector.wiqtw.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "89de9f144e934ce83da0",
+    "githubSecret": "d8cbaa556d4c4ca810d12b4e70c68307cf6e2560"
+}
